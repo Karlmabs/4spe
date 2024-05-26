@@ -89,7 +89,7 @@ Datacenter 2 will have the following components:
 4. Validate the integrity and availability of the services in Datacenter 2.
 
 ## Additional Documentation
-For detailed instructions, including screenshots and step-by-step guidance, refer to the accompanying document in the repository: Detailed_Setup_Guide.pdf. This document provides comprehensive steps to replicate the setup, ensuring clarity and ease of implementation.
+For detailed instructions, including screenshots and step-by-step guidance, refer to the accompanying document in the repository: XCP_Documentation.pdf. This document provides comprehensive steps to replicate the setup, ensuring clarity and ease of implementation.
 
 ## Conclusion
 This documentation provides a detailed guide to setting up a resilient and high-availability infrastructure using XCP-ng, Xen Orchestra, TrueNAS, and VMware Workstation Pro 17. By following the steps outlined, you can ensure that your infrastructure is capable of handling incidents with minimal downtime, ensuring continuous availability of services. High availability and load balancing configurations further enhance the infrastructure's robustness and performance.
